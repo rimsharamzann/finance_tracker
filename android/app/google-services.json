@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "592517954281",
+    "project_id": "finance-f7b01",
+    "storage_bucket": "finance-f7b01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592517954281:android:0802bfb0c4127b97404e78",
+        "android_client_info": {
+          "package_name": "com.example.city17_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVY4gpVKRBheILpdLI0KD0hQNDt0LKBU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592517954281:android:5e0f6c282bf7f0dd404e78",
+        "android_client_info": {
+          "package_name": "com.example.finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVY4gpVKRBheILpdLI0KD0hQNDt0LKBU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592517954281:android:e8a65549cc45f209404e78",
+        "android_client_info": {
+          "package_name": "com.example.finance_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVY4gpVKRBheILpdLI0KD0hQNDt0LKBU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
